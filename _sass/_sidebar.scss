@@ -79,18 +79,19 @@
    .author__avatar {
     display: table-cell;
     vertical-align: top;
-    width: 100px; // 默认宽度
-  
+    width: 175px; // 固定宽度
+    height: 175px; // 固定高度
+    
     @include breakpoint($large) {
       display: block;
-      width: auto; // 大屏幕下宽度自适应
-      height: auto; // 高度自适应
+      width: 175px; // 大屏幕下固定宽度
+      height: 175px; // 大屏幕下固定高度
     }
   
     img {
-      max-width: 100px; // 最大宽度
+      width: 175px; // 固定宽度
+      height: 175px; // 固定高度
       border-radius: 50%; // 圆形头像
-      height: auto; // 维持比例
   
       @include breakpoint($large) {
         padding: 5px; // 内边距
@@ -98,6 +99,7 @@
       }
     }
   }
+  
   
 
 .author__content {
