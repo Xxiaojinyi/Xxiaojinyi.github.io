@@ -76,29 +76,29 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
+   .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 100px; // 默认宽度
+  
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      display: block;
+      width: auto; // 大屏幕下宽度自适应
+      height: auto; // 高度自适应
+    }
+  
+    img {
+      max-width: 175px; // 最大宽度
+      border-radius: 50%; // 圆形头像
+      height: auto; // 维持比例
+  
+      @include breakpoint($large) {
+        padding: 5px; // 内边距
+        border: 1px solid $border-color; // 边框
+      }
     }
   }
-}
+  
 
 .author__content {
   display: table-cell;
