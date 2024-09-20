@@ -75,8 +75,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px; // 增加宽度
-  height: 200px; // 增加高度
+  width: 300px; // 增加宽度
+  height: 300px; // 增加高度
 
   @include breakpoint($large) {
     display: block;
@@ -85,7 +85,7 @@
   }
 
   img {
-    max-width: 200px; // 增加图片最大宽度
+    max-width: 300px; // 增加图片最大宽度
     border-radius: 50%;
 
     @include breakpoint($large) {
