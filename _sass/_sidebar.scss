@@ -72,33 +72,29 @@
   }
 }
 
-/*
-   Author profile and links
-   ========================================================================== */
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 175px;
+  // set width only, for non-square avatars
+  height: 175px;
 
-   .author__avatar {
-    display: table-cell;
-    vertical-align: top;
-    width: 175px; // 固定宽度
-    height: 175px; // 固定高度
-    
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
     @include breakpoint($large) {
-      display: block;
-      width: 175px; // 大屏幕下固定宽度
-      height: 175px; // 大屏幕下固定高度
-    }
-  
-    img {
-      width: 175px; // 固定宽度
-      height: 175px; // 固定高度
-      border-radius: 50%; // 圆形头像
-  
-      @include breakpoint($large) {
-        padding: 5px; // 内边距
-        border: 1px solid $border-color; // 边框
-      }
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
+}
   
   
 
