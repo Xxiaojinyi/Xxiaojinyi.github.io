@@ -24,11 +24,11 @@ author:
   avatar           : "Avatar1.jpg"
   name             : "Jinyi Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Doctoral Researcher"
+  location         : "Helsinki"
+  employer         : "University of Helsinki"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jinyi.xiao@helsinki.fi" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
