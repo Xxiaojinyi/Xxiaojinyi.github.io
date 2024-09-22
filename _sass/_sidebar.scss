@@ -58,7 +58,6 @@
 
 .sidebar__right {
   margin-bottom: 1em;
-  text-align: center; // 添加这一行
 
   @include breakpoint($large) {
     position: relative;
@@ -88,7 +87,7 @@
   }
 
   img {
-    max-width: 100px;
+    max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {
