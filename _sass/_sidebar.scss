@@ -58,6 +58,7 @@
 
 .sidebar__right {
   margin-bottom: 1em;
+  text-align: center; // 添加这一行
 
   @include breakpoint($large) {
     position: relative;
