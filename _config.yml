@@ -24,8 +24,12 @@ author:
   avatar           : "Jinyi_Photo.png"
   name             : "Jinyi Xiao"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Researcher"
-  location         : "Helsinki"
+  bio              : "Doctoral
+                      Researcher
+                      @University of Helsinki"
+  location         : "Helsinki 
+                      Liverpool
+                      Beijing"
   employer         : "University of Helsinki"
   uri              : # URL
   email            : "jinyi.xiao@helsinki.fi" 
