@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Social Science, University of Helsinki, 2023-Ongoing 
+* M.S. in Science, University of Liverpool, 2018-2021
+
 
 Work experience
 ======
@@ -34,12 +34,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R - statistical Analysis
+* Python
+* Java
+* ABM modeling
+  * Netlogo Modeling
+  * Repast Modeling
+* Thematic/Content Data analysis
+* Grounded Theory
+* Atlas.ti
 
 Publications
 ======
