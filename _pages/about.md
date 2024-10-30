@@ -26,9 +26,9 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Noteworthy Highlights
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**——Decade of Healthy Ageing (2021–2030)：** This proposal was endorsed by the 73rd World Health Assembly on 3 August 2020. It was also welcomed by the UN General Assembly on 14 December 2020 (Resolution 75/131), leading to the proclamation of a UN Decade of Healthy Ageing (2021–2030). the site is in the base directory in [Decade of Healthy Ageing](https://www.who.int/initiatives/decade-of-healthy-ageing)
 
 Create content & metadata
 ------
