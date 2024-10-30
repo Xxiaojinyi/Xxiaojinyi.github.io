@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a curious individual with a passion for discovering new things! My research focuses on healthy ageing, exploring topics such as Age-Friendly Environments (AFE), ageism, long-term care (LTC), integrated care, and the implications of population ageing on retirement and pensions.In addition to my academic pursuits, I’m enthusiastically diving into Natural Language Processing (NLP) and Machine Learning (ML), inspired by the incredible work of Andrew Ng.
+A nice and curious guy with a passion for discovering new things! My research focuses on healthy ageing, exploring topics such as Age-Friendly Environments (AFE), ageism, long-term care (LTC), integrated care, and the implications of population ageing on retirement and pensions.In addition to my academic pursuits, I’m enthusiastically diving into Natural Language Processing (NLP) and Machine Learning (ML), inspired by the incredible work of Andrew Ng.
 
 But life isn’t all about research, right? 😂 (Although it does occupy most of my time!). I’m a die-hard fan of Liverpool FC and the Lakers! also a passionate football player ⚽, hiker ⛰, and camper ⛺ who loves exploring nature 🌲. These activities keep me grounded and bring me endless joy!
 
