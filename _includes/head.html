@@ -19,14 +19,3 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const darkModeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
-    if (darkModeMediaQuery.matches) {
-      document.head.insertAdjacentHTML("beforeend", `<link rel="stylesheet" href="{{ '/assets/css/dark-mode.scss' | relative_url }}">`);
-    }
-  });
-</script>
-
