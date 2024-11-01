@@ -15,10 +15,11 @@ A die-hard fan of Liverpool FC⚽ and the Lakers🏀! a passionate football play
 📧 Contact me:  jinyi.xiao@helsinki.fi or shawjinyi@gmail.com
 
 
-🔔Stay Tuned！
-======
-🎉🎉 Our research has been accepted for a poster presentation at the[Asian Conference on Aging & Gerontology(AGen2025) ](https://agen.iafor.org/) in Tokyo! We examine recent changes in China’s [inreasing retirement age ](https://www.ft.com/content/56d8151e-8373-469a-bea7-11c00eb3ed16) analyzing public discourse and perceptions to understand concerns and evaluate the future feasibility of this reform. An article will be published soon!
+# 🔔 Stay Tuned!
 
+## 🎉 Exciting News!
+
+- **October 2024, Our research has been accepted for a poster presentation**  at the[Asian Conference on Aging & Gerontology(AGen2025) ](https://agen.iafor.org/) in Tokyo! We examine recent changes in China’s [inreasing retirement age ](https://www.ft.com/content/56d8151e-8373-469a-bea7-11c00eb3ed16) analyzing public discourse and perceptions to understand concerns and evaluate the future feasibility of this reform. An article will be published soon!
 
 
 
