@@ -14,7 +14,7 @@ A die-hard fan of Liverpool FC⚽ and the Lakers🏀! a passionate football play
 
 🔔Stay Tuned！
 ======
-🎉🎉Our research accepted by [Asian Conference on Aging & Gerontology(AGen2025) ](https://agen.iafor.org/) for poster presentation in Tokyo， We examize recent China [inrease retirement age ](https://www.ft.com/content/56d8151e-8373-469a-bea7-11c00eb3ed16) the public discourse and perceptions reflects their concerns and worries to evaluate the futher feasibility of this reform. and article will be published soon!
+🎉🎉 Our research has been accepted for a poster presentation at the[Asian Conference on Aging & Gerontology(AGen2025) ](https://agen.iafor.org/) in Tokyo! We examine recent changes in China’s [inreasing retirement age ](https://www.ft.com/content/56d8151e-8373-469a-bea7-11c00eb3ed16) analyzing public discourse and perceptions to understand concerns and evaluate the future feasibility of this reform. An article will be published soon!
 
 
 
